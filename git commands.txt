@@ -1,0 +1,16 @@
+Git download and install
+GitHub.com ac create
+
+
+Event management website
+
+admin - A
+user -B
+super admin - C
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/drnimishadavis/drnimishadavissamplerepo.git
+git push -u origin main
